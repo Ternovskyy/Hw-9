@@ -1,13 +1,24 @@
-body {
+.tyttle {
     font-size: 36px;
     color :blue
 }
-h1 {
+
+.text1 {
     color :chartreuse
 }
-h2 {
+
+.text2 {
     color :brown
 }
-P1 {
+
+.text3 {
     color :aquamarine
+}
+
+.text4 {
+    color: blueviolet;
+}
+
+.text5 {
+    color: chocolate;
 }
